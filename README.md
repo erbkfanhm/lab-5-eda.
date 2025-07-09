@@ -1,1 +1,2 @@
 # lab-5-eda.
+This project analyzes student data, specifically focusing on the metrics of age and gpa. The respective frequencies of the ages and gpas sampled are calculated and modeled visually as well as sample statistics for mean, median, variance, standard deviation, minimum and maximum. In addition, the relationship between age and gpa is modeled using a scatter plot and a correlation between the two factors is explored and calculated. 
